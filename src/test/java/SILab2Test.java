@@ -61,14 +61,14 @@ class SILab2Test {
 
     @Test
     void testFunctionUsernameIsNull() {
-        // Arrange
+    
         User user = new User(null, "Password123", "john@example.com");
         List<User> allUsers = new ArrayList<>();
 
-        // Act
+        
         boolean result = SILab2.function(user, allUsers);
 
-        // Assert
+        
         assertEquals(user.getEmail(), user.getUsername());
         assertTrue(result);
     }
