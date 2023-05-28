@@ -62,7 +62,7 @@ class SILab2Test {
     @Test
     void testFunctionUsernameIsNull() {
     
-        User user = new User(null, "Password123", "john@example.com");
+        User user = new User(null, "12345678", "sfnn.stoshevski@gmail.com");
         List<User> allUsers = new ArrayList<>();
 
         
