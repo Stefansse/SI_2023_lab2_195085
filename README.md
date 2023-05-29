@@ -10,7 +10,7 @@
 
 Тест случаи според критериумот EveryBranch
 1. user=null, се фрла exception
-2. user=b1, username='', password=1#34567812, email='sfnn.?', existinguser=2, Постои ист user, емаил влегува во containts делот од if-от.
+2. user=b1, username='', password=1#34567812, email='sfnn.@', existinguser=2, Постои ист user, емаил влегува во containts делот од if-от.
 3. user=b2, username='niko', password=12345, Не постои ист user, password<=8 е во овој тест
 4. user=b3, username = "sfkd", password = 1  3456, email = 'dadae', Не содржи . или @ во емаил, и password има празно место
 
