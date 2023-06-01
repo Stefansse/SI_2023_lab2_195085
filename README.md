@@ -18,7 +18,6 @@
 
 
 
-
 Тест случаи според Multiple Condition
 
 ![multipleconditionslika](https://github.com/Stefansse/SI_2023_lab2_195085/assets/117118626/64704a0c-b9d8-4759-8a95-4faeb62cba89)
